@@ -1,6 +1,8 @@
 # 你好，我是 kunzi4261-lang
 
-仓库里的一张截图改了名，哪几篇文档要跟着改？我做了 **mdpath** 来回答这个问题。它用 Python 标准库检查 Markdown 里的本地链接，把失效引用定位到具体的一行。[打开 mdpath ↗](https://github.com/kunzi4261-lang/mdpath)
+仓库里的一张截图改了名，哪几篇文档要跟着改？我做了 **mdpath** 来回答这个问题。它用 Python 标准库检查 Markdown 里的本地链接，把失效引用定位到具体的一行。
+
+[![打开 mdpath 项目。图中示例将丢失的图片定位到 README.md 第 3 行。](assets/mdpath.png)](https://github.com/kunzi4261-lang/mdpath)
 
 ### 一行 Markdown，要检查几张图？
 
