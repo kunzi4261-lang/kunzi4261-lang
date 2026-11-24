@@ -1,5 +1,13 @@
 # 你好，我是 kunzi4261-lang
 
+## 深蓝回声 · HADAL SURVEY
+
+第一趟下潜，驾驶舱里只有母站的位置。发一束声呐，等前方浮出回波，再决定把探测器开向哪里。三片海域里藏着九份记录，串起了一组失落声信标的去向。
+
+[![深蓝回声实机驾驶画面，点击进入游戏](https://raw.githubusercontent.com/kunzi4261-lang/hadal-survey/main/docs/flight.webp)](https://kunzi4261-lang.github.io/hadal-survey/)
+
+海床的同一个高度函数同时决定镜头前的地形、驾驶舱的深度读数和报告里的等深线。关掉 WebGL 也可以继续驾驶，返航后还能拖动时间轴复看自己的路线。[开始下潜](https://kunzi4261-lang.github.io/hadal-survey/) · [看渲染器](https://github.com/kunzi4261-lang/hadal-survey/tree/main/src/render) · [看航行模拟与测试](https://github.com/kunzi4261-lang/hadal-survey/tree/main/tests)
+
 ## 口袋实验室 · Pocket Lab
 
 给港口起个名字，看看它入夜的样子；再给这幅画编一小节鼓点。两个浏览器实验都能分享，也能把自己做的图和声音导出来。
